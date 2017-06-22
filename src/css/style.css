@@ -33,3 +33,7 @@ button {
     margin: 60px auto;
     text-shadow: 0 0 3px #000;
 }
+
+img {
+    max-width: 100%;
+}
